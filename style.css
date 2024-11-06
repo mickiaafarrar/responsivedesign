@@ -1,0 +1,105 @@
+/* ADD YOUR CUSTOM CSS TO THIS FILE BELOW */
+
+@font-face {font-family: "Petit Formal Script";
+  src: url(PetitFormalScript-Regular.ttf);}
+
+body {background-image: url("macaronback.jpeg");
+	background-size:100%;
+  font-size: 20px;
+  font-family: "Poppins";
+  color: #E3DAC9;}
+
+ul {list-style-type: none;
+    color: #E3DAC9; }
+
+#menu {font-size: 30px;
+  border-radius: 800px 800px 5px 5px;
+  background-color: #40697F;
+  background-position: center;
+  padding-top: 250px; 
+  padding-left: 15px;
+  padding-right: 40px;
+  width: 700px;
+  height: 850px;}
+
+#all {background-color: rgba(255,255,255,0.6);}
+
+#neon {margin-top: 60px;
+      padding: 70px;}
+
+#bio { border-radius: 10px;
+  background-color: #40697F;
+  background-position: center;
+    padding-top: 50px;
+    padding-bottom: 60px; 
+    margin-top: 60px;
+    margin-bottom: 60px;}
+
+#nav {background-color: #40697F;}
+
+.nav-link{color: #E3DAC9;}
+
+h1 {font-family: "Petit Formal Script";
+    font-size: 65px;
+    color: #E3DAC9}
+
+h2 {font-family: "Petit Formal Script";
+    font-size: 45px;
+    color: #E3DAC9}
+
+#starter {text-align: center;
+            padding-top: 50px;
+            padding-bottom: 30px;
+            background-color: #40697F;
+            margin-top: 60px;
+          border-radius: 10px;}
+          
+
+.card-title {font-family: "Petit Formal Script";
+    font-size: 35px;}
+
+.card {background-color: #E3DAC9;
+        color: black; 
+      margin-top: 60px;
+      margin-left: 50px;
+      margin-right: 50px;
+      padding: 20px;
+      font-size: 15px;
+    border-radius: 10px;}
+
+#form {background-color: #40697F;
+       margin-top: 60px;
+      width: 90%;
+      margin-bottom: 80px;
+      padding: 20px;
+    border-radius: 10px;}
+
+.btn {background-color: #7CA6BD;
+      color: black;}
+
+a {color: #E3DAC9;}
+
+footer {
+  text-align: left;
+  background-color: #7CA6BD;
+  padding:20px;
+  color: white;
+  font-size: 20px;
+  height: 400px;}
+
+footer h1 {font-size:30px;}
+footer a {text-decoration: none;}
+
+#event {background-color: #40697F;
+        margin:80px;
+        padding:30px;}
+
+#faqheader {text-align: center;
+            margin-top: 40px;
+            background-color: #40697F;
+            border-radius: 10px;}
+
+.accordion {margin:50px;
+            font-family:"Poppins";}
+
+.accordion-body a {color: black;}
